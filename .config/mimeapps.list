@@ -1,0 +1,6 @@
+[Added Associations]
+text/css=org.gnome.gedit.desktop;
+text/x-emacs-lisp=nvim.desktop;
+
+[Default Applications]
+text/x-emacs-lisp=nvim.desktop

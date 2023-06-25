@@ -1,0 +1,6 @@
+2023/06/25-00:08:42.898 26e23 Reusing MANIFEST /home/oleg/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/06/25-00:08:42.899 26e23 Recovering log #27
+2023/06/25-00:08:42.899 26e23 Reusing old log /home/oleg/.config/discord/Local Storage/leveldb/000027.log 
+2023/06/25-00:27:43.831 27aa6 Level-0 table #31: started
+2023/06/25-00:27:43.834 27aa6 Level-0 table #31: 14290 bytes OK
+2023/06/25-00:27:43.836 27aa6 Delete type=0 #27
